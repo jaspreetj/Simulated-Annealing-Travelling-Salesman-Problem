@@ -1,0 +1,11 @@
+latitude,longitude,name,desc,color
+5,30,A,"Brussels, Belgium",
+10,40,B,"Tirana, Albania",
+20,40,C,"Andorra la Vella, Andorra",
+25,29,D,"Vienna, Austria",
+25,19,E,"Minsk, Belarus",
+19,9,F,"Sarajevo, Bosnia and Herzegovina",
+9,9,G,"Sofia, Bulgaria",
+5,20,H,"City of Zagreb, Croatia",
+35.167604,33.373621,I,"Nicosia, Cyprus",
+50.0878114,14.4204598,J,"Prague, Czech Republic",
